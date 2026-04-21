@@ -9,7 +9,7 @@ Fascinated by what AI makes possible. I build end-to-end to learn — product sh
 - **[Clippers Command Center](https://github.com/llukehanna/Clippers-Command-Center)** — live NBA analytics dashboard for Clippers fans. Next.js 16 + Neon Postgres, Vercel Cron data pipeline, deterministic "provable insights" engine.
   [clippers-command-center.vercel.app](https://clippers-command-center.vercel.app)
 
-- **[BJS — Blackjack Strategy](https://github.com/llukehanna/BJS)** — native iOS app (Swift 6.2 / SwiftUI / SwiftData). Basic-strategy drills, Hi-Lo counting, house-edge calculators, full card-counting sim.
+- **[BJS — Blackjack Strategy](https://github.com/llukehanna/Blackjack-Strategy)** — native iOS app (Swift 6.2 / SwiftUI / SwiftData). Basic-strategy drills, Hi-Lo counting, house-edge calculators, full card-counting sim.
 
 - **[BT — Kalshi Edge Bot](https://github.com/llukehanna/BT-docs)** — Python trading bot for Kalshi weather + sports markets. 31-member GFS ensemble vs live contract prices, sharp-consensus odds for sports, fractional Kelly sizing, paper-trading safety gates. *Source private; full engineering docs at the link.*
 
