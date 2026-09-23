@@ -1,10 +1,12 @@
 # Luke Hanna
 
-Junior at USC — Computer Science + Business Administration. Based in Los Angeles.
+Senior at USC — Computer Science + Business Administration. Based in Los Angeles.
 
 Fascinated by what AI makes possible. I build end-to-end to learn — product shape, systems, data pipelines, UI, deployment, the whole thing. The projects below are all self-initiated.
 
 ## What I'm building
+
+- **[PFC — Personal Finance Coach](https://github.com/llukehanna/PFC-docs)** — single-user system that holds the full state of my finances and checks every action against the credit-card plan's gates (5/24, utilization at close, SUB windows) before it happens. Append-only SQLite ledger, Plaid + SimpleFIN ingest, a 20-rule opportunity-cost comparator over versioned assumption ranges, tax-aware 5-year projection, MCP server so Claude is the primary interface, Next.js UI behind Cloudflare Access. TypeScript on Node 24, ~84K LOC + 3,100 tests. *Source private by design; full engineering docs at the link.*
 
 - **[Clippers Command Center](https://github.com/llukehanna/Clippers-Command-Center)** — live NBA analytics dashboard for Clippers fans. Next.js 16 + Neon Postgres, Vercel Cron data pipeline, deterministic "provable insights" engine.
   [clippers-command-center.vercel.app](https://clippers-command-center.vercel.app)
