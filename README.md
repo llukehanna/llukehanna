@@ -13,7 +13,7 @@ Fascinated by what AI makes possible. I build end-to-end to learn — product sh
 
 - **[BJS — Blackjack Strategy](https://github.com/llukehanna/Blackjack-Strategy)** — native iOS app (Swift 6.2 / SwiftUI / SwiftData). Basic-strategy drills, Hi-Lo counting, house-edge calculators, full card-counting sim.
 
-- **[BT — Kalshi Edge Bot](https://github.com/llukehanna/BT-docs)** — Python trading bot for Kalshi weather + sports markets. 31-member GFS ensemble vs live contract prices, sharp-consensus odds for sports, fractional Kelly sizing, paper-trading safety gates. *Source private; full engineering docs at the link.*
+- **[BT — Kalshi Weather Edge Bot](https://github.com/llukehanna/BT-docs)** — Python research bot testing whether GFS ensemble forecasts beat Kalshi's daily temperature markets. Full pipeline from forecast to fee-adjusted edge to Kelly sizing to NWS settlement, 13K LOC + 945 tests, four months unattended, 7,440 settled signals. Result: the market price out-predicts the model and the calibration gate blocked trading, which is what it was built to do. Now running a maker-side market-making experiment on the same books. *Source private; results and engineering docs at the link.*
 
 ---
 
