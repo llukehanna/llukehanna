@@ -8,6 +8,9 @@ Fascinated by what AI makes possible. I build end-to-end to learn — product sh
 
 - **[PFC — Personal Finance Coach](https://github.com/llukehanna/PFC-docs)** — single-user system that holds the full state of my finances and checks every action against the credit-card plan's gates (5/24, utilization at close, SUB windows) before it happens. Append-only SQLite ledger, Plaid + SimpleFIN ingest, a 20-rule opportunity-cost comparator over versioned assumption ranges, tax-aware 5-year projection, MCP server so Claude is the primary interface, Next.js UI behind Cloudflare Access. TypeScript on Node 24, ~84K LOC + 3,100 tests. *Source private by design; full engineering docs at the link.*
 
+- **[Shedquarters](https://github.com/llukehanna/Shedquarters)** — offline-first skill-rating ladder for a house league. Games are scored from a phone at the table through an idempotent offline queue, OpenSkill ratings are replayed from an append-only history behind a fingerprinted cache, and a 4-digit house PIN is made safe by a Postgres-backed, advisory-locked rate limiter. Next.js 16 + Postgres, 561 tests.
+  [shed.lukeghanna.com](https://shed.lukeghanna.com)
+
 - **[Clippers Command Center](https://github.com/llukehanna/Clippers-Command-Center)** — live NBA analytics dashboard for Clippers fans. Next.js 16 + Neon Postgres, Vercel Cron data pipeline, deterministic "provable insights" engine.
   [clippers-command-center.vercel.app](https://clippers-command-center.vercel.app)
 
