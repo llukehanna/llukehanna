@@ -1,23 +1,15 @@
 # Luke Hanna
 
-Senior at USC — Computer Science + Business Administration. Based in Los Angeles.
+Computer Science + Business at USC, in Los Angeles. I build things end to end to learn how they work. Write-ups for everything below are at [lukeghanna.com](https://lukeghanna.com).
 
-Fascinated by what AI makes possible. I build end-to-end to learn — product shape, systems, data pipelines, UI, deployment, the whole thing. The projects below are all self-initiated.
+- **[Personal Finance Coach](https://github.com/llukehanna/PFC-docs)**: my full financial state in one append-only ledger, with every action checked against the plan's gates before it happens. *Source private; engineering docs at the link.*
+- **[Beacon](https://github.com/llukehanna/beacon-demo)**: a deal-sourcing workbench that learns its screening rules from the analysts who reject firms. [beacon.lukeghanna.com](https://beacon.lukeghanna.com)
+- **[Clippers Command Center](https://github.com/llukehanna/Clippers-Command-Center)**: Clippers analytics where every stored insight carries the query that proves it, over six seasons of league-wide box scores. [clippers.lukeghanna.com](https://clippers.lukeghanna.com)
+- **[Kalshi Weather Edge](https://github.com/llukehanna/BT-docs)**: tested whether weather forecasts beat Kalshi's temperature markets. They don't: 7,440 settled signals, and a calibration gate that never let it trade. *Source private; results and docs at the link.*
+- **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black.
+- **[Solitaire](https://github.com/llukehanna/Solitaire)**: ad-free Klondike where a solver proves every deal winnable before you see it, then backs the hints and the rewind. [solitaire.lukeghanna.com](https://solitaire.lukeghanna.com)
+- **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
+- **[Shedquarters](https://github.com/llukehanna/Shedquarters)**: skill ratings for a house beer-die and spikeball league, scored offline-first from a phone at the table. [shed.lukeghanna.com](https://shed.lukeghanna.com)
+- **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer built on a tested Swift package.
 
-## What I'm building
-
-- **[PFC — Personal Finance Coach](https://github.com/llukehanna/PFC-docs)** — single-user system that holds the full state of my finances and checks every action against the credit-card plan's gates (5/24, utilization at close, SUB windows) before it happens. Append-only SQLite ledger, Plaid + SimpleFIN ingest, a 20-rule opportunity-cost comparator over versioned assumption ranges, tax-aware 5-year projection, MCP server so Claude is the primary interface, Next.js UI behind Cloudflare Access. TypeScript on Node 24, ~84K LOC + 3,100 tests. *Source private by design; full engineering docs at the link.*
-
-- **[Shedquarters](https://github.com/llukehanna/Shedquarters)** — offline-first skill-rating ladder for a house league. Games are scored from a phone at the table through an idempotent offline queue, OpenSkill ratings are replayed from an append-only history behind a fingerprinted cache, and a 4-digit house PIN is made safe by a Postgres-backed, advisory-locked rate limiter. Next.js 16 + Postgres, 561 tests.
-  [shed.lukeghanna.com](https://shed.lukeghanna.com)
-
-- **[Clippers Command Center](https://github.com/llukehanna/Clippers-Command-Center)** — live NBA analytics dashboard for Clippers fans. Next.js 16 + Neon Postgres, Vercel Cron data pipeline, deterministic "provable insights" engine.
-  [clippers-command-center.vercel.app](https://clippers-command-center.vercel.app)
-
-- **[BJS — Blackjack Strategy](https://github.com/llukehanna/Blackjack-Strategy)** — native iOS app (Swift 6.2 / SwiftUI / SwiftData). Basic-strategy drills, Hi-Lo counting, house-edge calculators, full card-counting sim.
-
-- **[BT — Kalshi Weather Edge Bot](https://github.com/llukehanna/BT-docs)** — Python research bot testing whether GFS ensemble forecasts beat Kalshi's daily temperature markets. Full pipeline from forecast to fee-adjusted edge to Kelly sizing to NWS settlement, 13K LOC + 945 tests, four months unattended, 7,440 settled signals. Result: the market price out-predicts the model and the calibration gate blocked trading, which is what it was built to do. Now running a maker-side market-making experiment on the same books. *Source private; results and engineering docs at the link.*
-
----
-
-[luke@zhannas.com](mailto:lllukehanna@gmail.com) · Los Angeles
+[luke@zhannas.com](mailto:luke@zhannas.com) · [LinkedIn](https://www.linkedin.com/in/lukehanna2/)
