@@ -9,7 +9,7 @@ Computer Science + Business at USC, in Los Angeles. I build things end to end to
 - **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black.
 - **[Solitaire](https://github.com/llukehanna/Solitaire)**: ad-free Klondike where a solver proves every deal winnable before you see it, then backs the hints and the rewind. [solitaire.lukeghanna.com](https://solitaire.lukeghanna.com)
 - **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
-- **[Shedquarters](https://github.com/llukehanna/Shedquarters)**: skill ratings for a house beer-die and spikeball league, scored offline-first from a phone at the table. [shed.lukeghanna.com](https://shed.lukeghanna.com)
+- **[Shedquarters](https://github.com/llukehanna/Shedquarters)**: skill ratings for a house beer-die and spikeball league, scored offline-first from a phone at the table. [die.lukeghanna.com](https://die.lukeghanna.com)
 - **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer built on a tested Swift package.
 
 [luke@zhannas.com](mailto:luke@zhannas.com) · [LinkedIn](https://www.linkedin.com/in/lukehanna2/)
