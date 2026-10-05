@@ -1,6 +1,6 @@
 # Luke Hanna
 
-Computer Science + Business at USC, in Los Angeles. I build things end to end to learn how they work. Write-ups for everything below are at [lukeghanna.com](https://lukeghanna.com).
+Computer Science + Business Administration at USC. I build things end to end to learn how they work. Write-ups for everything below are at [lukeghanna.com](https://lukeghanna.com).
 
 - **[Personal Finance Coach](https://github.com/llukehanna/PFC-docs)**: my full financial state in one append-only ledger, with every action checked against the plan's gates before it happens. *Source private; engineering docs at the link.*
 - **[Beacon](https://github.com/llukehanna/beacon-demo)**: a deal-sourcing workbench that learns its screening rules from the analysts who reject firms. [beacon.lukeghanna.com](https://beacon.lukeghanna.com)
