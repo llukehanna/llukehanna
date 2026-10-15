@@ -8,6 +8,7 @@ Computer Science + Business Administration at USC. I build things end to end to 
 - **[Kalshi Weather Edge](https://github.com/llukehanna/BT-docs)**: tested whether weather forecasts beat Kalshi's temperature markets. They don't: 7,440 settled signals, and a calibration gate that never let it trade. *Source private; results and docs at the link.*
 - **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black.
 - **[Solitaire](https://github.com/llukehanna/Solitaire)**: ad-free Klondike where a solver proves every deal winnable before you see it, then backs the hints and the rewind. [solitaire.lukeghanna.com](https://solitaire.lukeghanna.com)
+- **[Mapped](https://github.com/llukehanna/Mapped)**: a map-first geography quiz for countries, flags and capitals, with a flag drill and leaderboards the server checks by replaying every move. [mapped.lukeghanna.com](https://mapped.lukeghanna.com)
 - **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
 - **[Shedquarters](https://github.com/llukehanna/Shedquarters)**: skill ratings for a house beer-die and spikeball league, scored offline-first from a phone at the table. [die.lukeghanna.com](https://die.lukeghanna.com)
 - **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer built on a tested Swift package.
