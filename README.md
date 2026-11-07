@@ -11,7 +11,7 @@ Senior at USC studying computer science and business administration. Looking for
 - **[Solitaire](https://github.com/llukehanna/Solitaire)**: ad-free Klondike where a solver proves every deal winnable before you see it, then backs the hints and the rewind. [solitaire.lukeghanna.com](https://solitaire.lukeghanna.com)
 - **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black, across six leagues and a live-channel guide.
 - **[Mapped](https://github.com/llukehanna/Mapped)**: a map-first geography quiz for countries, flags, capitals and seas, with a flag drill and leaderboards the server checks by replaying every move. [mapped.lukeghanna.com](https://mapped.lukeghanna.com)
-- **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree, with a Christmas radio and a leaderboard the server checks by replaying every run. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
-- **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer on a tested Swift package: strategy, counting, house edge and progress are built; not released yet.
+- **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree, with a Daily Tree, a Christmas radio and a leaderboard the server checks by replaying every run. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
+- **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer on a tested Swift package: strategy, counting, house edge, progress and a shoe simulator are built; not released yet.
 
 [luke@zhannas.com](mailto:luke@zhannas.com) · [LinkedIn](https://www.linkedin.com/in/lukehanna2/)
