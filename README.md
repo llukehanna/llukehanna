@@ -9,9 +9,9 @@ Senior at USC studying computer science and business administration. Looking for
 - **[Circuit](https://lukeghanna.com/work/circuit)**: ten daily puzzle games under one streak, where each puzzle is drafted ahead by a cron and plays only once a person approves it. [circuit.lukeghanna.com](https://circuit.lukeghanna.com) *Source private; write-up at the link.*
 - **[Shedquarters](https://github.com/llukehanna/Shedquarters)**: skill ratings for a house beer-die and spikeball league, scored offline-first from a phone at the table. [die.lukeghanna.com](https://die.lukeghanna.com)
 - **[Solitaire](https://github.com/llukehanna/Solitaire)**: ad-free Klondike where a solver proves every deal winnable before you see it, then backs the hints and the rewind. [solitaire.lukeghanna.com](https://solitaire.lukeghanna.com)
-- **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black.
-- **[Mapped](https://github.com/llukehanna/Mapped)**: a map-first geography quiz for countries, flags and capitals, with a flag drill and leaderboards the server checks by replaying every move. [mapped.lukeghanna.com](https://mapped.lukeghanna.com)
-- **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
-- **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer built on a tested Swift package.
+- **[OnAir](https://github.com/llukehanna/OnAir)**: a macOS live-sports player that fails over between ranked HLS streams without the picture ever going black, across six leagues and a live-channel guide.
+- **[Mapped](https://github.com/llukehanna/Mapped)**: a map-first geography quiz for countries, flags, capitals and seas, with a flag drill and leaderboards the server checks by replaying every move. [mapped.lukeghanna.com](https://mapped.lukeghanna.com)
+- **[Aglow](https://github.com/llukehanna/ChristmasTreeLightUp)**: the Christmas Tree Light Up puzzle, rebuilt so every connection sends light flowing through the tree, with a Christmas radio and a leaderboard the server checks by replaying every run. [aglow.lukeghanna.com](https://aglow.lukeghanna.com)
+- **[BJS](https://github.com/llukehanna/Blackjack-Strategy)**: a native iOS blackjack trainer on a tested Swift package: strategy, counting, house edge and progress are built; not released yet.
 
 [luke@zhannas.com](mailto:luke@zhannas.com) · [LinkedIn](https://www.linkedin.com/in/lukehanna2/)
